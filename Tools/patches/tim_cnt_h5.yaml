@@ -1,0 +1,7 @@
+# TIMx_CNT on STM32H523/H533
+
+TIM2:
+  CNT:
+    _delete:
+      - UIFCPY
+      - UIFCPY_CNT

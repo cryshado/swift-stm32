@@ -1,0 +1,16 @@
+# .gitignore
+
+svd/
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+.sourcekit-lsp
+.vscode
+
+.DS_Store
+
+*.md
+!README.md
+!notices/ST_README.md

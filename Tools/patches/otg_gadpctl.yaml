@@ -1,0 +1,8 @@
+# OTG_FS_GLOBAL GADPCTL: put PRBPER where the ADP definition has it
+
+OTG_FS_GLOBAL:
+  GADPCTL:
+    _modify:
+      PRBPER:
+        bitOffset: 4
+        bitWidth: 2

@@ -1,0 +1,33 @@
+{
+  "access-level" : "public",
+  "peripherals" : [
+    "ADC",
+    "BLUE",
+    "CRC",
+    "DMA",
+    "DMAMUX",
+    "FLASH_CTRL",
+    "GLOBALSTATMACH",
+    "GPIOA",
+    "GPIOB",
+    "I2C1",
+    "I2C2",
+    "IWDG",
+    "LPUART",
+    "PKA",
+    "PWRC",
+    "RADIO",
+    "RADIO_CONTROL",
+    "RCC",
+    "RNG",
+    "RRM",
+    "RTC",
+    "SPI1",
+    "SPI2",
+    "SPI3",
+    "SYSTEM_CTRL",
+    "TIM1",
+    "USART",
+    "WAKEUP"
+  ]
+}

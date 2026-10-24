@@ -1,0 +1,7 @@
+# TIMx_CNT on STM32WB55
+
+TIM2:
+  CNT:
+    _delete:
+      - UIFCPY
+      - UIFREMAP_CNT

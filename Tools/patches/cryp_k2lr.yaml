@@ -1,0 +1,6 @@
+# CRYP K2LR: drop the orphaned b121 field
+
+CRYP:
+  K2LR:
+    _delete:
+      - b121

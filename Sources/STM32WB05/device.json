@@ -1,0 +1,27 @@
+{
+  "cpu" : "CM0+",
+  "fpuPresent" : false,
+  "interrupts" : {
+    "ADC" : 12,
+    "DMA" : 17,
+    "FLASH" : 0,
+    "GPIOA" : 15,
+    "GPIOB" : 16,
+    "I2C1" : 3,
+    "LPUART" : 9,
+    "PKA" : 13,
+    "PVD" : 2,
+    "RADIO_CPU_WKUP" : 23,
+    "RADIO_ERROR" : 20,
+    "RADIO_TXRX" : 18,
+    "RADIO_TXRX_WKUP" : 24,
+    "RCC" : 1,
+    "RTC" : 11,
+    "SPI3" : 7,
+    "TIM16" : 26,
+    "TIM17" : 27,
+    "TIM2" : 10,
+    "TRNG" : 28,
+    "USART" : 8
+  }
+}

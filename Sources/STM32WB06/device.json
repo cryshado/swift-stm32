@@ -1,0 +1,29 @@
+{
+  "cpu" : "CM0+",
+  "fpuPresent" : false,
+  "interrupts" : {
+    "ADC" : 12,
+    "BATTERY" : 2,
+    "BLE_TX_RX_IRQn" : 18,
+    "DMA" : 17,
+    "FLASH" : 0,
+    "GPIOA" : 15,
+    "GPIOB" : 16,
+    "I2C1" : 3,
+    "I2C2" : 4,
+    "LPUART" : 9,
+    "PKA" : 13,
+    "RADIO_CPU_WKUP" : 23,
+    "RADIO_ERROR" : 20,
+    "RADIO_TXRX_SEQ" : 25,
+    "RADIO_TXRX_WKUP" : 24,
+    "RCC" : 1,
+    "RTC" : 11,
+    "SPI1" : 5,
+    "SPI2" : 6,
+    "SPI3" : 7,
+    "TIM1" : 10,
+    "TIM17" : 27,
+    "USART" : 8
+  }
+}

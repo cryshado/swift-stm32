@@ -1,0 +1,6 @@
+# TIMx_CNT: drop the UIF copy
+
+TIM2:
+  CNT:
+    _delete:
+      - UIFCPY

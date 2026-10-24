@@ -1,0 +1,33 @@
+{
+  "access-level" : "public",
+  "peripherals" : [
+    "ADC",
+    "CRC",
+    "DBG",
+    "DMA1",
+    "EXTI",
+    "FLASH",
+    "FW",
+    "GPIOA",
+    "GPIOB",
+    "GPIOC",
+    "GPIOD",
+    "GPIOE",
+    "GPIOH",
+    "I2C1",
+    "IWDG",
+    "LPTIM",
+    "LPUART1",
+    "NVIC",
+    "PWR",
+    "RCC",
+    "RTC",
+    "SPI1",
+    "SYSCFG",
+    "TIM2",
+    "TIM21",
+    "TIM22",
+    "USART2",
+    "WWDG"
+  ]
+}

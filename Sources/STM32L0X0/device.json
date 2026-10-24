@@ -1,0 +1,25 @@
+{
+  "cpu" : "CM0+",
+  "fpuPresent" : false,
+  "interrupts" : {
+    "ADC" : 12,
+    "DMA1_Channel1" : 9,
+    "DMA1_Channel2_3" : 10,
+    "DMA1_Channel4_7" : 11,
+    "EXTI0_1" : 5,
+    "EXTI2_3" : 6,
+    "EXTI4_15" : 7,
+    "FLASH" : 3,
+    "I2C1" : 23,
+    "LPTIM1" : 13,
+    "LPUART1" : 29,
+    "RCC" : 4,
+    "RTC" : 2,
+    "SPI1" : 25,
+    "TIM2" : 15,
+    "TIM21" : 20,
+    "TIM22" : 22,
+    "USART2" : 28,
+    "WWDG" : 0
+  }
+}

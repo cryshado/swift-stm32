@@ -1,0 +1,8 @@
+# FLASH_ECCR: restore ADDR_ECC to the width ST's own SVD gives it
+
+FLASH:
+  ECCR:
+    _modify:
+      ADDR_ECC:
+        bitWidth: 19
+        writeConstraint: none

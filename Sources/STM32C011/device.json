@@ -1,0 +1,28 @@
+{
+  "cpu" : "CM0",
+  "fpuPresent" : true,
+  "interrupts" : {
+    "ADC" : 12,
+    "DMA1_Channel1" : 9,
+    "DMA1_Channel2_3" : 10,
+    "DMAMUX_DMA1_Channel4_5" : 11,
+    "EXTI0_1" : 5,
+    "EXTI2_3" : 6,
+    "EXTI4_15" : 7,
+    "FLASH" : 3,
+    "I2C1" : 23,
+    "PVM" : 1,
+    "RCC" : 4,
+    "RTC" : 2,
+    "SPI1" : 25,
+    "TIM14" : 19,
+    "TIM16" : 21,
+    "TIM17" : 22,
+    "TIM1_BRK_UP_TRG_COM" : 13,
+    "TIM1_CC" : 14,
+    "TIM3" : 16,
+    "USART1" : 27,
+    "USART2" : 28,
+    "WWDG" : 0
+  }
+}
